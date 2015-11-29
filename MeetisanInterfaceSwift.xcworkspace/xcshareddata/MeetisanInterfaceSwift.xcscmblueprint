@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "612B604330EE12933F3531968176FE4E8116B2FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "612B604330EE12933F3531968176FE4E8116B2FB" : 0,
+    "123963F3221A2CC5A89F5725ED41B2A2E1968E7C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B57CA51-2011-46F6-9C24-AD8D342D5C11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "612B604330EE12933F3531968176FE4E8116B2FB" : "MeetisanInterfaceSwift\/",
+    "123963F3221A2CC5A89F5725ED41B2A2E1968E7C" : "MeetisanInterfaceSwift\/MeetisanInterfaceSwift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MeetisanInterfaceSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MeetisanInterfaceSwift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yj-zh\/MeetisanInterfaceSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "123963F3221A2CC5A89F5725ED41B2A2E1968E7C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yj-zh\/MeetisanInterfaceSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "612B604330EE12933F3531968176FE4E8116B2FB"
+    }
+  ]
+}
